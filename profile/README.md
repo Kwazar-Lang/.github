@@ -34,5 +34,5 @@ Some ephemeral code examples that may be implemented in the language were presen
 # Conclusion
 At the moment, the language is under development, so we cannot fully describe its structure, syntax, capabilities and other parameters so important for the language. However, you can watch the language development process and contribute to the development of the language: join the organization and become a collaborator, together we will make the language better!
 
-# News and spiolers
+# News and spoilers
 Watch the [news](https://github.com/Kwazar-Lang/.github/blob/main/news/NEWSMAP.md) so that you don't miss anything.
