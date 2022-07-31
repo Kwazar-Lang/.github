@@ -14,14 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# .github
-A repository with a visual design of the organization.
+# Lexical analyzer: Realise v. 0.5.0.
+Public beta version 0.5.0 of lexer. At the moment, the lexical analyzer has at its disposal 11 types of tokens, 2 different modes of information output.
 
-# Roadmap
-#### Main links
-* [News](https://github.com/Kwazar-Lang/.github/blob/main/news/NEWSMAP.md)
-* [Organization profile](https://github.com/Kwazar-Lang)
-* [Organization profile MD-file](https://github.com/Kwazar-Lang/.github/blob/main/profile/README.md)
-
-#### Other links
-* [Kwazar language lexer](https://github.com/Kwazar-Lang/kwazar-lexer)
+#### Watch the [news](https://github.com/Kwazar-Lang/.github/blob/main/news/NEWSMAP.md) so that you don't miss anything.
