@@ -19,7 +19,6 @@ A high-level statically typed interpreted general-purpose language.
 
 # [News and spiolers](https://github.com/Kwazar-Lang/.github/blob/main/news/NEWSMAP.md)
 ### Watch the news at the link above so that you don't miss anything.
-
 <br>
 
 # Examples
