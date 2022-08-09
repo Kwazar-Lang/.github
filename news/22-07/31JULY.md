@@ -17,4 +17,4 @@ limitations under the License.
 # Lexical analyzer: Realise v. 0.5.0.
 Public beta version 0.5.0 of lexer. At the moment, the lexical analyzer has at its disposal 11 types of tokens, 2 different modes of information output.
 
-#### Watch the [news](https://github.com/Kwazar-Lang/.github/blob/main/news/NEWSMAP.md) so that you don't miss anything.
+### Watch the [news](https://github.com/Kwazar-Lang/.github/blob/main/news/NEWSMAP.md) so that you don't miss anything.

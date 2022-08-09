@@ -15,4 +15,7 @@ limitations under the License.
 -->
 
 # 31st of July (2022)
-* [Lexical analyzer public realise](./july22/31JULY.md)
+* [Lexical analyzer public realise](./22-07/31JULY.md)
+
+# 9th of August (2022)
+* [PackRun script manager public realise](./22-08/9AUGUST.md)

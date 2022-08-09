@@ -14,15 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# .github
-A repository with a visual design of the organization.
+# PackRun realise 0.9.0.
+The first public update of the PackRun Script Manager. This manager is designed to reduce the programmer's costs for writing and interacting with scripts. Operation and installation is extremely simple: just run the installer and the program is ready for use. [See more...](https://github.com/Kwazar-Lang/packrun)
 
-# Roadmap
-#### Main links
-* [News](https://github.com/Kwazar-Lang/.github/blob/main/news/NEWSMAP.md)
-* [Organization profile](https://github.com/Kwazar-Lang)
-* [Organization profile MD-file](https://github.com/Kwazar-Lang/.github/blob/main/profile/README.md)
-
-#### Other links
-* [Kwazar language lexer](https://github.com/Kwazar-Lang/kwazar-lexer)
-* [PackRun Script Manager](https://github.com/Kwazar-Lang/packrun)
+### Watch the [news](https://github.com/Kwazar-Lang/.github/blob/main/news/NEWSMAP.md) so that you don't miss anything.
