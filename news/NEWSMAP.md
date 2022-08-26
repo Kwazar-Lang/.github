@@ -19,3 +19,6 @@ limitations under the License.
 
 # 9th of August (2022)
 * [PackRun script manager public realise](./22-08/9AUGUST.md)
+
+# 26th of August (2022)
+* [Final decision on implementation](./22-08/26AUGUST.md)
